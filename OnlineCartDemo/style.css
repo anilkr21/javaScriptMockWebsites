@@ -1,0 +1,63 @@
+
+
+
+
+.online-shop{
+    color: #2934a5;
+    font-style: italic;
+    font-weight: 700;
+}
+.navlinkMen{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-style: normal;
+    font-size:17.6px;
+    font-family:  "Roboto Condensed", sans-serif;
+}
+.underline-btn:active{
+    color: #3c4aeb;
+    text-decoration: none solid #3c4aeb;
+    text-decoration:underline  5px  #3c4aeb;
+}
+
+.underline-btn:hover{
+    color: #2934a5;
+    
+}
+
+.carUl{
+    left: 0;
+}
+.carousel-inner {
+    max-height: 400px;
+    overflow:hidden;
+}
+.carousel-item img{
+    object-position:middle  ;
+}
+
+/* allProductsHeader */
+.allProductsHeader{
+    list-style: none;
+    text-decoration: none;
+    color: #2934a5;
+    font-style: normal;
+    font-size:17.6px;
+    font-family:  "Roboto Condensed", sans-serif;
+
+}
+/* Card image  */
+.card-img-top{
+    object-fit: cover;
+    height: 300px;
+    width: 100%;
+
+}
+.card{
+    width: 18rem;
+    display: flex;
+    flex-direction: column; 
+}
+
+

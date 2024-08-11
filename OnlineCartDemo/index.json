@@ -1,0 +1,81 @@
+{
+    "products":[
+        {
+            "id":1,
+            "title":"FORCLAZ",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 499
+        },
+        {
+            "id":2,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 599
+        },
+        {
+            "id":3,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 699
+        },
+        {
+            "id":4,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 799
+        },
+        {
+            "id":5,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 899
+        },
+        {
+            "id":6,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 999
+        },
+        {
+            "id":7,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1099
+        },
+        {
+            "id":8,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1199
+        },
+        {
+            "id":9,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":10,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1399
+        },
+        {
+            "id":11,
+            "title":"Men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1499
+        }
+    ]
+}
