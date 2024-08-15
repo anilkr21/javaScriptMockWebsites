@@ -28,7 +28,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
         event.preventDefault();
         let debitPin = debitPinInput.value.trim();
         
-       
         const correctPin = '0000';
         
         if (debitPin === correctPin) {

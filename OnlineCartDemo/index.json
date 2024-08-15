@@ -2,6 +2,7 @@
     "products":[
         {
             "id":1,
+            "category":"Men",
             "title":"FORCLAZ",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
@@ -9,48 +10,55 @@
         },
         {
             "id":2,
-            "title":"Men",
+            "category":"Men",
+            "title":"uhuh",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 599
         },
         {
             "id":3,
-            "title":"Men",
+            "category":"Men",
+            "title":"iii",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 699
         },
         {
             "id":4,
-            "title":"Men",
+            "category":"Men",
+            "title":"yyy",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 799
         },
         {
             "id":5,
-            "title":"Men",
+            "category":"Men",
+            "title":"tyd",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 899
         },
         {
             "id":6,
-            "title":"Men",
+            "category":"Men",
+            "title":"xty",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 999
         },
         {
             "id":7,
-            "title":"Men",
+            "category":"Men",
+            "title":"xyz",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 1099
         },
         {
             "id":8,
+            "category":"Women",
             "title":"Men",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
@@ -58,39 +66,169 @@
         },
         {
             "id":9,
+            "category":"Women",
             "title":"Men",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 1299
         },
         {
-            "id":9,
-            "title":"Men",
+            "id":10,
+            "title":"Women",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 1299
         },
         {
-            "id":9,
-            "title":"Men",
+            "id":11,
+            "category":"Women",
+            "title":"men",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 1299
-        },{
-            "id":9,
-            "title":"Men",
+        },{ 
+            "id":12,
+            "category":"Women",
+            "title":"men",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 1299
-        },{
-            "id":9,
-            "title":"Men",
+        },
+        {
+            "id":13,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":15,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":16,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":17,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":18,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":19,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":20,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":21,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":22,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":23,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":24,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":25,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":26,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":27,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":28,
+            "category":"Kid",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":29,
+            "category":"Kid",
+            "title":"men",
             "images":["./images/Men's.jpg"],
             "brand": "Polo",
             "price": 1299
         }
-      
-      
-      
     ]
 }

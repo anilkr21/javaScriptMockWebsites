@@ -1,9 +1,6 @@
 body{
     overflow-x:hidden ;
 }
-
-
-
 .online-shop{
     color: #2934a5;
     font-style: italic;
@@ -61,7 +58,7 @@ body{
 }
 .card-group{
     height: 500px;
-    width:300px;
+    width:200px;
 }
 .colcard{
     height: 300px;
