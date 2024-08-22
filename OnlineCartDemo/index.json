@@ -11,83 +11,124 @@
         {
             "id":2,
             "category":"Men",
-            "title":"uhuh",
-            "images":["./images/Men's.jpg"],
+            "title":"Wrogn",
+            "images":["./images/Tshirt1.jpg"],
             "brand": "Polo",
             "price": 599
         },
         {
             "id":3,
             "category":"Men",
-            "title":"iii",
-            "images":["./images/Men's.jpg"],
+            "title":"American fist",
+            "images":["./images/Tshirt2.jpg"],
             "brand": "Polo",
             "price": 699
         },
         {
             "id":4,
             "category":"Men",
-            "title":"yyy",
-            "images":["./images/Men's.jpg"],
+            "title":"Bold",
+            "images":["./images/Tshirt3.jpg"],
             "brand": "Polo",
             "price": 799
         },
         {
             "id":5,
             "category":"Men",
-            "title":"tyd",
-            "images":["./images/Men's.jpg"],
+            "title":"Humper",
+            "images":["./images/Tshirt4.jpg"],
             "brand": "Polo",
             "price": 899
         },
         {
             "id":6,
             "category":"Men",
-            "title":"xty",
-            "images":["./images/Men's.jpg"],
+            "title":"Levis",
+            "images":["./images/shirt1.jpg"],
             "brand": "Polo",
             "price": 999
         },
         {
             "id":7,
             "category":"Men",
-            "title":"xyz",
-            "images":["./images/Men's.jpg"],
+            "title":"Levis",
+            "images":["./images/shirt2.jpg"],
             "brand": "Polo",
             "price": 1099
         },
         {
             "id":8,
-            "category":"Women",
-            "title":"Men",
-            "images":["./images/Men's.jpg"],
+            "category":"Men",
+            "title":"Colors",
+            "images":["./images/shirt3.jpg"],
             "brand": "Polo",
             "price": 1199
         },
         {
             "id":9,
-            "category":"Women",
-            "title":"Men",
-            "images":["./images/Men's.jpg"],
+            "category":"Men",
+            "title":"Colors",
+            "images":["./images/pant1.jpg"],
             "brand": "Polo",
             "price": 1299
         },
         {
             "id":10,
-            "title":"Women",
-            "images":["./images/Men's.jpg"],
+            "category":"Men",
+            "title":"Bootstrap",
+            "images":["./images/pant2.jpg"],
             "brand": "Polo",
             "price": 1299
         },
         {
             "id":11,
-            "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "category":"Men",
+            "title":"Bootstrap",
+            "images":["./images/pant1.jpg"],
             "brand": "Polo",
             "price": 1299
         },{ 
             "id":12,
+            "category":"Men",
+            "title":"Trousers",
+            "images":["./images/pant4.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":13,
+            "category":"Men",
+            "title":"Trousers",
+            "images":["./images/pant5.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Men",
+            "title":"Ram Raj",
+            "images":["./images/kurtas1.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Men",
+            "title":"Ram Raj",
+            "images":["./images/kurtas2.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Men",
+            "title":"Ram Raj",
+            "images":["./images/kurtas3.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
             "category":"Women",
             "title":"men",
             "images":["./images/Men's.jpg"],
@@ -95,7 +136,63 @@
             "price": 1299
         },
         {
-            "id":13,
+            "id":14,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
+            "category":"Women",
+            "title":"men",
+            "images":["./images/Men's.jpg"],
+            "brand": "Polo",
+            "price": 1299
+        },
+        {
+            "id":14,
             "category":"Women",
             "title":"men",
             "images":["./images/Men's.jpg"],
