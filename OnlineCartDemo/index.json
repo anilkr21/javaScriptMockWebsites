@@ -130,90 +130,266 @@
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"Trends",
+            "images":["./images/womenkurta1.png"],
+            "brand": "Polo",
+            "price": 599
+        },
+        {
+            "id":14,
+            "category":"Women",
+            "title":"Baggs",
+            "images":["./images/womenkurta00.png"],
             "brand": "Polo",
             "price": 1299
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"Naturals",
+            "images":["./images/womenkurta3.png"],
             "brand": "Polo",
-            "price": 1299
+            "price": 499
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"Naturals",
+            "images":["./images/womenkurta4.png"],
             "brand": "Polo",
-            "price": 1299
+            "price": 499
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"Mist",
+            "images":["./images/womenkurta26.png"],
             "brand": "Polo",
-            "price": 1299
+            "price": 1050
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"Colors",
+            "images":["./images/womenkurta7.png"],
             "brand": "Polo",
-            "price": 1299
+            "price": 1900
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"Levis",
+            "images":["./images/womenkurta6.png"],
             "brand": "Polo",
-            "price": 1299
+            "price": 399
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"LeeCooper",
+            "images":["./images/womenkurta8.png"],
             "brand": "Polo",
-            "price": 1299
+            "price": 700
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"ZARA",
+            "images":["./images/womenkurta9.png"],
             "brand": "Polo",
-            "price": 1299
+            "price": 400
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"Supreme",
+            "images":["./images/womenkurta10.png"],
             "brand": "Polo",
-            "price": 1299
+            "price": 350
         },
         {
             "id":14,
             "category":"Women",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "title":"H&M",
+            "images":["./images/womenkurta11.png"],
+            "brand": "Polo",
+            "price": 799
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Colors",
+            "images":["./images/womenkurta12.png"],
+            "brand": "Polo",
+            "price": 460
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"MadeIn",
+            "images":["./images/womenkurta13.png"],
+            "brand": "Polo",
+            "price": 800
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Stylish",
+            "images":["./images/womenkurta14.png"],
+            "brand": "Polo",
+            "price": 699
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"MOST",
+            "images":["./images/womenkurta15.png"],
+            "brand": "Polo",
+            "price": 599
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Parallels",
+            "images":["./images/womenkurta16.png"],
+            "brand": "Polo",
+            "price": 1500
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Parallels",
+            "images":["./images/womenkurta17.png"],
+            "brand": "Polo",
+            "price": 799
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Levis",
+            "images":["./images/womenkurta28.png"],
+            "brand": "Polo",
+            "price": 1099
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"LeeCooper",
+            "images":["./images/womenkurta19.png"],
+            "brand": "Polo",
+            "price": 590
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"LeeCooper",
+            "images":["./images/womenkurta20.png"],
+            "brand": "Polo",
+            "price": 680  
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Levis",
+            "images":["./images/womenkurta21.png"],
+            "brand": "Polo",
+            "price": 290
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Levis",
+            "images":["./images/womenkurta22.png"],
+            "brand": "Polo",
+            "price": 350
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Trends",
+            "images":["./images/womenkurta23.png"],
+            "brand": "Polo",
+            "price": 420
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Trends",
+            "images":["./images/womenkurta24.png"],
+            "brand": "Polo",
+            "price": 750
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"MAX",
+            "images":["./images/womenkurta25.png"],
             "brand": "Polo",
             "price": 1299
         },
         {
             "id":15,
-            "category":"Kid",
-            "title":"men",
-            "images":["./images/Men's.jpg"],
+            "category":"Women",
+            "title":"ZARA",
+            "images":["./images/womenkurta26.png"],
+            "brand": "Polo",
+            "price": 2500
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"MAX",
+            "images":["./images/womenkurta27.png"],
+            "brand": "Polo",
+            "price": 1099
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Trends",
+            "images":["./images/womenkurta28.png"],
+            "brand": "Polo",
+            "price": 1100
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"ZARA",
+            "images":["./images/womenkurta29.png"],
+            "brand": "Polo",
+            "price": 2200
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"ZARA",
+            "images":["./images/womenkurta31.png"],
+            "brand": "Polo",
+            "price": 1800
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"ZARA",
+            "images":["./images/womenkurta32.png"],
+            "brand": "Polo",
+            "price": 2100
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Trends",
+            "images":["./images/womenkurta33.png"],
             "brand": "Polo",
             "price": 1299
+        },
+        {
+            "id":15,
+            "category":"Women",
+            "title":"Levis",
+            "images":["./images/womenkurta34.png"],
+            "brand": "Polo",
+            "price": 1699
         },
         {
             "id":16,
